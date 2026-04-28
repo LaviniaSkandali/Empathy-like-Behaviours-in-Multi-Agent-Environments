@@ -1,5 +1,3 @@
-# Empathy-like-Behaviours-in-Multi-Agent-Environments
-Can reward sharing induce pro-social emergence?
 # Empathy-Like Behaviors in Multi-Agent Environments
 ### Can reward sharing induce prosocial emergence?
 
